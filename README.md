@@ -1,21 +1,38 @@
-# NorthPeak Digital — one-page agency site
+# NorthPeak Digital — One-Page Agency Website
 
-A hand-built,  HTML/CSS/JS one-page site for a fictional agency, built for
-the Digital Heroes web development training task (Role 05/16).
+A hand-built responsive one-page website for a fictional digital agency, created as part of the **Digital Heroes Web Development Training Task (Role 05/16)**.
 
-Three files: `index.html`, `style.css`, `script.js`.
+Built using **HTML5, CSS3, and Vanilla JavaScript**.
 
-## What's in here
+## Features
 
-- **Hero** — headline, subhead, dual CTA, live stats
-- **Services** — grid of 6 capability cards
-- **Results** — 3 testimonial cards with metrics
-- **Pricing** — 3 tiers (Basecamp / Ridge / Summit)
-- **Contact** — form with client-side validation
-- **Footer** — required training-task credit line, linked to digitalheroesco.com
+- Hero section with headline, CTA buttons, and key metrics
+- Services section with six service cards
+- Results/Testimonial section with client feedback
+- Pricing section with three plans (Basecamp, Ridge, Summit)
+- Contact form with client-side validation
+- Fully responsive design (360px, 768px, and 1440px)
+- Semantic HTML and accessibility improvements
+- Footer with the required Digital Heroes training task credit
 
-Signature detail: the "altimeter" in the bottom-right corner reads out a scroll
-position as an elevation figure — a small nod to the NorthPeak name that's also
-a functional scroll-progress indicator.
+## Unique Feature
 
+The **Altimeter** in the bottom-right corner displays the user's scroll progress as a mountain elevation, inspired by the NorthPeak brand identity.
 
+## Tech Stack
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+## Live Demo
+
+Vercel: https://agency-website-sigma-ten.vercel.app/
+
+## GitHub Repository
+
+Github: https://github.com/Monica-G55/agency-website
+
+---
+
+**Built for Digital Heroes Training Task**
